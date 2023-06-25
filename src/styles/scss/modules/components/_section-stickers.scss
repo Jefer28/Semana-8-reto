@@ -1,0 +1,15 @@
+.section__cards {
+    height: 100vh;
+    padding: 2rem 0;
+
+    font-size: 1.5rem;
+    -webkit-text-stroke: 2px black;
+    color: rgb(103, 173, 234);
+
+    @media (min-width: 678px) {
+        height: 100vh;
+        padding: 2rem 0;
+        font-size: 1.2;
+        color: white;
+    }
+}

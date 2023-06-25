@@ -1,0 +1,27 @@
+.g-layout {
+    display: grid;
+
+    &--center {
+        align-items: center;
+        justify-items: center;
+    }
+
+    &--stickers {
+        grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+        align-items: center;
+        justify-items: center;
+    }
+
+}
+
+@media (min-width: 768px) {
+    .md\:g-layout--1-1 {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .g-layout--stickers {
+        grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+        align-items: center;
+        justify-items: center;
+    }
+}
