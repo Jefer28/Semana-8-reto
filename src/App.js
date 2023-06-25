@@ -9,8 +9,8 @@ import Footer from './components/Footer';
 function App() {
 
   const routeLinks = [
-    { href: '#projects', title: 'Gatitos', content: 'Gatitos' },
-    { href: '#skills', title: 'Perritos', content: 'Perritos' },
+    { href: '#cat', title: 'Gatitos', content: 'Gatitos' },
+    { href: '#dog', title: 'Perritos', content: 'Perritos' },
   ];
 
   const socialNetworks = [
