@@ -47,7 +47,7 @@ const Header = ({routeLinks, socialNetworks }) => {
                                         title={title}
                                         target="_blank"
                                         rel="noopener noreferrer"
-                                        className="link link--lg"
+                                        className="link--lg"
                                         dangerouslySetInnerHTML={{ __html: content }}
                                     />
                                 </li>

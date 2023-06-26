@@ -8,4 +8,12 @@
         transform: scale(1.2);
         box-shadow: 0 0 10px 7px rgb(255, 255, 255);
     }
+
+    @media (min-width: 678px) {
+        &:hover {
+            transform: scale(1.9);
+            box-shadow: 0 0 10px 7px rgb(255, 255, 255);
+        }
+    }
+
 }

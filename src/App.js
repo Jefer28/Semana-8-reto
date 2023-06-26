@@ -16,6 +16,15 @@ function App() {
   const socialNetworks = [
     { href: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ', title: 'YouTube', content: '<i class="bi bi-youtube"></i>' },
   ];
+
+  window.addEventListener("scroll", function () {
+    var header = document.querySelector("header")
+    if (window.scrollY > 0) {
+      header.style.backgroundColor = "#413f3fe0";
+    } else {
+      header.style.backgroundColor = "transparent";
+    }
+  })
   return (
     <>
       <Header
