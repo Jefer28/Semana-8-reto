@@ -22,15 +22,15 @@ const Sectiondog = () => {
                     <img src="/perritos/sticker (16).webp" alt="sticker de perrito" className="stickers" />
                     <img src="/perritos/sticker (17).webp" alt="sticker de perrito" className="stickers" />
                     <img src="/perritos/sticker (18).webp" alt="sticker de perrito" className="stickers" />
-                    <img src="/perritos/sticker (19).webp" alt="sticker de perrito" className="stickers md:d-none" />
-                    <img src="/perritos/sticker (20).webp" alt="sticker de perrito" className="stickers md:d-none" />
-                    <img src="/perritos/sticker (21).webp" alt="sticker de perrito" className="stickers md:d-none" />
-                    <img src="/perritos/sticker (22).webp" alt="sticker de perrito" className="stickers md:d-none" />
-                    <img src="/perritos/sticker (23).webp" alt="sticker de perrito" className="stickers md:d-none" />
-                    <img src="/perritos/sticker (24).webp" alt="sticker de perrito" className="stickers md:d-none" />
-                    <img src="/perritos/sticker (25).webp" alt="sticker de perrito" className="stickers md:d-none" />
-                    <img src="/perritos/sticker (26).webp" alt="sticker de perrito" className="stickers md:d-none" />
-                    <img src="/perritos/sticker (27).webp" alt="sticker de perrito" className="stickers md:d-none" />
+                    <img src="/perritos/sticker (19).webp" alt="sticker de perrito" className="stickers" />
+                    <img src="/perritos/sticker (20).webp" alt="sticker de perrito" className="stickers" />
+                    <img src="/perritos/sticker (21).webp" alt="sticker de perrito" className="stickers" />
+                    <img src="/perritos/sticker (22).webp" alt="sticker de perrito" className="stickers" />
+                    <img src="/perritos/sticker (23).webp" alt="sticker de perrito" className="stickers" />
+                    <img src="/perritos/sticker (24).webp" alt="sticker de perrito" className="stickers" />
+                    <img src="/perritos/sticker (25).webp" alt="sticker de perrito" className="stickers" />
+                    <img src="/perritos/sticker (26).webp" alt="sticker de perrito" className="stickers" />
+                    <img src="/perritos/sticker (27).webp" alt="sticker de perrito" className="stickers" />
                 </div>
             </div>
         </section>
